@@ -1,4 +1,4 @@
-% Modelo LaTex para TCC do Programa de Graduação nas áreas de Computadação da USCS elaborado a partir do Oveleaf % 
+% Template elaborado a partir do Overleaf utilizando a linguagem LaTex para auxiliar na formatação de TCC do Programa de Graduação nas áreas de Computadação da USCS % 
 
 % Elaborado por: César Robusti %
 
