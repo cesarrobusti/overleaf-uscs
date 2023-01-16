@@ -1,4 +1,4 @@
-% Modelo LaTex para TCC e PIM do Programa de Graduação nas áreas de Computadação da USCS % 
+% Modelo LaTex para TCC do Programa de Graduação nas áreas de Computadação da USCS elaborado a partir do Oveleaf % 
 
 % Elaborado por: César Robusti %
 
