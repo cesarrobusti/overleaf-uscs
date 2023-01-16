@@ -4,4 +4,6 @@
 
 % Revisado por: Cilene Mainente %
 
+% Manual para utilização disponível em: %
+
 % Última atualização: 16/01/2023 %
