@@ -1,4 +1,4 @@
-% Template elaborado a partir do Overleaf utilizando a linguagem LaTex para auxiliar na formatação de TCC do Programa de Graduação nas áreas de Computadação da USCS % 
+% Template elaborado a partir do Overleaf utilizando a linguagem LaTex para auxiliar na formatação de TCC do Programa de Graduação nas áreas de Computação da USCS % 
 
 % Elaborado por: César Robusti %
 
