@@ -6,4 +6,4 @@
 
 - Manual para utilização disponível em: https://github.com/cesarrobusti/overleaf-uscs/blob/main/Manual%20Overleaf%20USCS.pdf 
 
-- Última atualização: 28/02/2023 
+- Última atualização: 05/03/2023 
