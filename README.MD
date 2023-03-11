@@ -2,8 +2,10 @@
 
 - Elaborado por: César Robusti 
 
-- Revisado por: Cilene Mainente 
+- Orientado por: Cilene Mainente 
+
+- Revisado por: Renato Carioca
 
 - Manual para utilização disponível em: https://github.com/cesarrobusti/overleaf-uscs/blob/main/Manual%20Overleaf%20USCS.pdf 
 
-- Última atualização: 07/03/2023 
+- Última atualização: 07/03/2023
